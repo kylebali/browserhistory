@@ -3,7 +3,6 @@ body {
   font-family: 'Open Sans', sans-serif;
   color: darkblue;
   margin: 10px 50px 10px 50px;
-  width: 960px;
 }
 
 h1, h2 {
@@ -13,18 +12,4 @@ h1, h2 {
 img {
   float: left;
   margin: 10px;
-}
-
-#tabs {
-  text-align: center;
-}
-
-li {
-  display: inline;
-  margin: 0 70px 0 70px;
-}
-
-#content .column {
-  float: left;
-  width: 300px;
 }
